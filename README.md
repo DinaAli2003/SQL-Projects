@@ -37,7 +37,7 @@ Each project follows a rigorous data analysis lifecycle, primarily utilizing the
 
 Each project is contained within a dedicated folder and includes the following files:
 
-1.  **`Data_Source_file`**: A (CSV/xlsx file) of the tables and columns used in the project.
+1.  **`Data_Source_file`**: A (CSV/Excel file) of the tables and columns used in the project.
 2.  **`Project_Queries.sql`**: The primary file containing all the sequenced SQL scripts (separated by comments) that perform the cleaning, modeling, EDA, and final insight extraction.
 
 
