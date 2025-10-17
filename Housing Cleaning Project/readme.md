@@ -1,4 +1,4 @@
-# 🏡 Nashville Housing Data Cleaning and Exploratory Analysis Project
+# 🏡 Nashville Housing Data Cleaning Project
 
 This repository documents a comprehensive **Data Cleaning and Transformation** project executed using **Structured Query Language (SQL)**. The primary goal is to refine a raw housing dataset, addressing common data quality issues to establish a clean, normalized, and analytically ready foundation for subsequent exploratory data analysis (EDA) and reporting.
 
