@@ -51,4 +51,15 @@ The SQL scripts in this repository are primarily written using standard T-SQL sy
 
 ## Contact and Professional Standards ©️
 
-This repository serves as a professional portfolio demonstrating high-level proficiency in data manipulation and analysis using SQL. All queries are optimized for readability, efficiency, and adherence to professional SQL coding standards.
+This repository serves as a professional portfolio demonstrating high-level proficiency in data manipulation and analysis using SQL. All queries are optimized for readability, efficiency, and adherence to professional SQL coding standards
+
+
+## ✉️ Connect with Me!
+
+I am actively seeking opportunities to apply my data visualization and analysis skills.
+
+* **LinkedIn**: [https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* **Portfolio**: [https://portfolio-dina.lovable.app/]
+* **Email**: [dinaelharedy00@gmail.com]
+
+I welcome any feedback or questions regarding my projects.
