@@ -1,4 +1,4 @@
-# Sales_DB_SV E-commerce Database System
+# SalesDB E-commerce Database System
 
 ## 📋 Project Overview
 
