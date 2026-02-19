@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis
+# Adventure Works Sales Analysis
 
 ## 📋 Project Overview
 
