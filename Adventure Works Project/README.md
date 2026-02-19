@@ -1,4 +1,4 @@
-# Project 1: AdventureWorks Sales Analysis
+# AdventureWorks Sales Analysis
 
 ## 📋 Project Overview
 
