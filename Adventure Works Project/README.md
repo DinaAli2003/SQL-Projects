@@ -79,5 +79,6 @@ The project utilizes multiple tables from the AdventureWorks database including:
 **This is developed as part of the prestigious **Digilians Initiative**, a collaborative program between:**
 
 - **Ministry of Communications and Information Technology (MCIT)** 
-- **Egyptian Military Academy** 
+- **Egyptian Military Academy**
+  
 *This initiative represents Egypt's commitment to developing world-class technical talent and fostering digital innovation across the nation.*
